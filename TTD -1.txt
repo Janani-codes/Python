@@ -1,8 +1,0 @@
-Machine learning types
--model training
-1. Data creation or collection
-2. Data preprocessing
-3. Data Visualization(EDA)
-4. Spit data for model training
-5. Evaluation
-6. Pickle download
