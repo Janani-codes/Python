@@ -1,0 +1,101 @@
+﻿NAME,AGE,GENDER,PERCENT,PASS/FAIL,PUNCTUALITY,BEHAVIOUR,DEPARTMENT,DISCIPLINE SCORE,SEMESTER,ARREARS,SPORTS,INTERNSHIP,PROJECTS,TARGET
+Gayathri,20,Female,37,Fail,On Time,Average,CSE,5,3,3,NO,1,1,1
+Kumar,18,Male,77,Pass,Late,Excellent,IT,9,2,0,YES,0,0,0
+Kishore,20,Male,43,Fail,Late,Average,ECE,7,3,3,NO,1,0,1
+Vasanth,19,Male,99,Pass,On Time,Excellent,CSE,7,5,0,YES,0,2,0
+Devi,17,Female,92,Pass,On Time,Average,IT,8,4,0,YES,2,2,0
+Divya,19,Female,33,Fail,On Time,Average,MECH,8,3,3,NO,0,0,1
+Sathish,17,Male,37,Fail,Late,Average,EEE,9,3,2,NO,0,1,1
+Hemalatha,19,Female,78,Pass,On Time,Average,CSE,7,5,0,NO,1,1,0
+Nithin,18,Male,41,Fail,Late,Poor,IT,4,4,3,NO,0,1,0
+Pranav,18,Male,93,Pass,On Time,Average,EEE,8,3,0,NO,2,2,1
+Mounika,20,Female,66,Pass,Late,Average,IT,7,5,1,NO,1,1,0
+Radha,19,Female,43,Fail,On Time,Average,MECH,5,4,2,YES,0,0,1
+Rahul,18,Male,99,Pass,On Time,Excellent,CSE,9,3,0,NO,2,2,0
+Sneha,19,Female,86,Pass,Late,Good,CSE,8,4,0,NO,1,1,0
+Hari,17,Male,80,Pass,Late,Excellent,IT,8,2,0,NO,1,1,0
+Bhavya,18,Female,68,Pass,Late,Average,EEE,7,5,0,YES,1,1,0
+Saranraj,17,Male,30,Fail,On Time,Poor,EEE,3,3,4,NO,1,0,1
+Krithika,17,Female,40,Fail,On Time,Average,IT,4,3,3,YES,0,0,1
+Ajay,19,Male,88,Pass,Late,Good,EEE,7,5,0,NO,0,1,0
+Reshma,19,Female,40,Fail,On Time,Average,EEE,5,4,3,NO,1,1,1
+Kavya,17,Female,98,Pass,Late,Average,MECH,4,3,0,YES,1,0,0
+Yogesh,19,Male,44,Fail,On Time,Poor,IT,3,4,3,YES,0,2,1
+Shreya,17,Female,69,Pass,Late,Average,EEE,5,4,0,NO,1,0,0
+Nandhini,20,Female,41,Fail,On Time,Poor,CSE,4,5,3,YES,0,1,1
+Meena,17,Female,90,Pass,On Time,Average,CSE,8,3,0,NO,2,2,0
+Sindhu,17,Female,33,Fail,On Time,Average,CSE,4,4,3,NO,0,0,1
+Bhuvana,20,Female,30,Fail,Late,Poor,ECE,4,3,4,NO,0,0,1
+Monisha,20,Female,42,Fail,On Time,Average,CSE,5,4,3,NO,1,1,1
+Madhan,18,Male,99,Pass,Late,Excellent,IT,8,5,0,YES,2,2,0
+Kirthika,18,Female,61,Pass,Late,Excellent,IT,6,3,0,NO,1,0,0
+Anjali,17,Female,100,Pass,Late,Average,IT,8,5,3,NO,1,2,0
+Vijay,17,Male,31,Fail,On Time,Average,MECH,6,4,0,NO,0,0,1
+Lokesh,19,Male,64,Pass,On Time,Excellent,EEE,6,5,0,YES,1,1,0
+Saranya,17,Female,96,Pass,On Time,Excellent,CSE,5,4,3,NO,1,2,0
+Dhivya,19,Female,44,Fail,On Time,Average,MECH,7,3,0,NO,0,0,1
+Girish,18,Male,60,Pass,Late,Excellent,EEE,6,5,0,NO,1,1,0
+Sruthi,17,Female,89,Pass,Late,Good,CSE,8,6,0,YES,1,2,0
+Anil,20,Male,87,Pass,On Time,Good,ECE,8,4,0,NO,1,1,0
+Varsha,18,Female,39,Fail,On Time,Average,IT,6,5,2,YES,0,0,1
+Rajesh,18,Male,36,Fail,On Time,Poor,ECE,6,6,3,NO,0,0,1
+Naveen,17,Male,92,Pass,On Time,Excellent,ECE,8,3,0,NO,1,1,0
+Dinesh,20,Male,30,Fail,Late,Average,MECH,7,5,3,YES,0,0,1
+Varun,19,Male,89,Pass,On Time,Good,EEE,8,6,0,YES,1,2,0
+Ganesh,18,Male,41,Fail,On Time,Poor,ECE,6,4,3,NO,0,1,1
+Harish,18,Male,36,Fail,On Time,Poor,ECE,7,5,2,NO,0,0,1
+Deepak,18,Male,79,Pass,On Time,Good,ECE,6,6,0,NO,0,1,0
+Arjun,19,Male,34,Fail,On Time,Average,IT,7,5,3,YES,0,0,1
+Vinod,17,Male,65,Pass,On Time,Good,IT,7,4,0,NO,1,1,0
+Lakshmi,19,Female,38,Fail,Late,Poor,CSE,5,5,3,YES,0,0,1
+Madhumitha,17,Female,36,Fail,Late,Average,CSE,5,4,3,YES,1,1,1
+Vaishnavi,18,Female,39,Fail,On Time,Poor,CSE,8,5,2,NO,0,1,1
+Janani,17,Female,89,Pass,Late,Good,EEE,7,3,0,YES,1,0,0
+Narasimhan,19,Male,97,Pass,On Time,Good,MECH,6,5,0,NO,2,2,0
+Swathi,18,Female,66,Pass,Late,Excellent,CSE,7,5,0,NO,1,1,0
+Soundarya,20,Female,36,Fail,On Time,Average,MECH,4,4,2,NO,0,0,1
+Manoj,19,Male,35,Fail,Late,Poor,CSE,5,4,2,NO,1,1,1
+Sathya,17,Female,43,Fail,On Time,Poor,MECH,7,4,3,YES,2,0,1
+Saran,18,Male,45,Fail,On Time,Poor,ECE,8,4,2,YES,1,0,1
+Ashwin,18,Male,39,Fail,On Time,Average,CSE,6,5,2,NO,0,0,1
+Priya,18,Female,73,Pass,On Time,Average,MECH,7,5,0,NO,1,1,0
+Aravind,18,Male,83,Pass,Late,Excellent,EEE,5,4,0,NO,1,2,0
+Uday,20,Male,84,Pass,On Time,Average,IT,7,3,0,YES,1,2,0
+Harini,18,Female,36,Fail,On Time,Average,ECE,8,5,2,NO,0,0,1
+Anand,19,Male,62,Pass,On Time,Good,ECE,5,4,0,NO,1,1,0
+Shalini,17,Female,88,Pass,Late,Average,MECH,4,5,0,YES,1,1,0
+Preethi,17,Female,70,Pass,On Time,Excellent,CSE,7,3,0,NO,0,1,0
+Sahana,17,Female,36,Fail,On Time,Average,EEE,7,5,2,NO,0,0,1
+Ravi,18,Male,46,Fail,On Time,Poor,IT,7,3,2,NO,0,0,1
+Yamini,17,Female,90,Pass,On Time,Good,CSE,7,4,0,YES,1,2,0
+Saravanan,18,Male,65,Pass,On Time,Good,MECH,5,5,0,YES,0,1,0
+Gokul,19,Male,98,Pass,Late,Average,CSE,8,3,0,NO,2,2,0
+Surya,18,Male,49,Fail,On Time,Poor,CSE,5,5,2,NO,0,0,1
+Anusha,19,Female,60,Pass,On Time,Average,MECH,5,4,0,YES,1,0,0
+Mahesh,17,Male,36,Fail,Late,Average,IT,8,5,2,YES,0,1,1
+Deepa,18,Female,41,Fail,Late,Average,ECE,4,4,2,YES,1,0,1
+Revathi,20,Female,33,Fail,Late,Poor,IT,7,5,2,NO,0,0,1
+Pooja,17,Female,63,Pass,On Time,Good,CSE,6,4,0,NO,1,1,0
+Jeeva,19,Male,35,Fail,On Time,Average,IT,7,5,3,NO,0,0,1
+Karthik,19,Male,80,Pass,On Time,Average,MECH,7,4,0,YES,1,1,0
+Prakash,17,Male,63,Pass,On Time,Average,ECE,6,5,0,YES,0,1,0
+Aishwarya,17,Female,35,Fail,On Time,Poor,IT,7,4,2,NO,1,0,1
+Kiran,17,Male,78,Pass,Late,Average,CSE,5,5,0,NO,0,1,0
+Aparna,19,Female,33,Fail,On Time,Poor,ECE,5,4,3,NO,0,0,1
+Praveen,19,Male,68,Pass,On Time,Excellent,MECH,7,5,0,YES,0,1,0
+Ishwarya,18,Female,47,Fail,Late,Average,IT,5,4,2,NO,0,0,1
+Santhiya,20,Female,37,Fail,On Time,Poor,CSE,8,5,2,NO,0,0,1
+Bhaskar,20,Male,42,Fail,Late,Average,ECE,8,5,2,NO,1,1,1
+Vignesh,19,Male,74,Pass,Late,Excellent,CSE,4,4,0,YES,0,1,0
+Mahalakshmi,18,Female,30,Fail,On Time,Poor,EEE,6,5,2,NO,1,0,1
+Bharath,19,Male,64,Pass,Late,Good,CSE,6,3,0,YES,0,1,0
+Siddharth,18,Male,48,Fail,Late,Average,IT,6,4,2,NO,1,0,1
+Kavin,18,Male,100,Pass,Late,Average,MECH,5,5,0,YES,0,2,0
+Sandhya,19,Female,41,Fail,Late,Average,MECH,4,4,3,NO,1,0,1
+Santosh,17,Male,61,Pass,On Time,Excellent,IT,7,3,0,YES,0,1,0
+Sangeetha,17,Female,35,Fail,On Time,Poor,EEE,7,5,3,YES,1,0,1
+Suresh,20,Male,48,Fail,Late,Average,ECE,6,4,2,YES,0,0,1
+Meghala,17,Female,74,Pass,Late,Average,EEE,6,4,0,NO,1,1,0
+Sowmiya,20,Female,31,Fail,Late,Poor,MECH,6,5,2,NO,0,0,1
+Bala,17,Male,71,Pass,Late,Excellent,EEE,7,4,0,YES,0,1,0
+Keerthi,17,Female,40,Fail,On Time,Average,MECH,8,4,2,NO,0,0,1
